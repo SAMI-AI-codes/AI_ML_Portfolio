@@ -10,6 +10,7 @@ Building with **AI/ML, GenAI & Agentic AI** — learning in public, one project 
 
 - 🎓 Software Engineering undergraduate @ CECOS University
 - 🤖 Focused on Artificial Intelligence, Machine Learning, Generative AI & Agentic AI
+- 🌐 Full-stack web development — building for the web alongside AI
 - 🎬 I run an automated YouTube content business — end-to-end content automation (scripts → voiceover → video → SEO)
 - 🌱 Currently strengthening ML fundamentals and building real projects
 - 💡 Learn by building, share by writing
@@ -21,8 +22,12 @@ Building with **AI/ML, GenAI & Agentic AI** — learning in public, one project 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- **Languages:** Python
+- **Languages:** Python, JavaScript
+- **Web:** HTML, CSS — full-stack web development
 - **AI/ML:** scikit-learn (learning), LLMs & prompt engineering, GenAI concepts, Agentic AI (exploring)
 - **Tools:** Git & GitHub, Jupyter Notebook
 - **Also:** Content automation pipelines
